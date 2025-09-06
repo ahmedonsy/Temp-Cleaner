@@ -1,0 +1,13 @@
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\A5-Automation Tool.exe.config
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\A5-Automation Tool.exe
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\A5-Automation Tool.pdb
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\bin\Debug\System.ValueTuple.dll
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.csproj.AssemblyReference.cache
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.csproj.SuggestedBindingRedirects.cache
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.exe.config
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.csproj.CoreCompileInputs.cache
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Autom.BBB1C4BB.Up2Date
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.exe
+D:\KAITECH\00-Assignments\05\A5-Automation Tool\A5-Automation Tool\obj\Debug\A5-Automation Tool.pdb
